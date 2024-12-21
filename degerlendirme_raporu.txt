@@ -1,0 +1,5 @@
+- Genel ve Doğru Bilgi (5/50): Konuşma metnindeki bilgiler karmaşık ve anlaşılmazdır. Kişi, ne hakkında konuştuğunu belirtmiyor ve sunulan bilgi belirtilen soru ('dsds') ile bağlantılı görünmüyor.
+- Örneklerle Anlatım (0/30): Konuşma metni örneklere yer vermiyor.
+- Çalışma Deneyimleri (0/20): Konuşmacı, kendi çalışma deneyimi hakkında herhangi bir bilgi vermiyor.
+
+Toplam: 5/100
